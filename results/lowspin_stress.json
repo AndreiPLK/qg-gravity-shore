@@ -1,0 +1,17 @@
+{
+ "alarms": [],
+ "lambdas": [
+  "1",
+  "3/2",
+  "2",
+  "3",
+  "5",
+  "8"
+ ],
+ "depth": 20,
+ "window": "[minT-2, minT] even D",
+ "checks": 7,
+ "command": "python lab/lowspin_stress.py",
+ "git": "aa22cb3",
+ "runtime_s": 2.6
+}

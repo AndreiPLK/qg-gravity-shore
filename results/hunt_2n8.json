@@ -1,0 +1,10 @@
+{
+ "alarms": [],
+ "n_lambdas": 34,
+ "n_range": "5..14",
+ "window": "[minT-3, minT] even D",
+ "checks": 680,
+ "command": "python lab/hunt_2n8.py",
+ "git": "aa22cb3",
+ "runtime_s": 1.0
+}
